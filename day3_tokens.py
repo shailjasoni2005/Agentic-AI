@@ -22,8 +22,9 @@
      #The OpenAI SDK is the Python package that lets your Python code communicate with OpenAI models.
      
 import os
+
 from dotenv import load_dotenv
-from openai import OpenAI 
+from openai import OpenAI
 
 load_dotenv()
 
