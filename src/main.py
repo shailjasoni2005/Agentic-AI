@@ -1,6 +1,6 @@
 # from src.tools.api_client import get_todo
-from src.tools.api_client import post_todo  # noqa: I001
-from src.tools.api_client import http_header
+from day2_api_call import post_todo  # noqa: I001
+from day2_api_call import http_header
 
 title_x = input("Enter TODO title: ")
 id_x = input("Enter TODO ID: ")
