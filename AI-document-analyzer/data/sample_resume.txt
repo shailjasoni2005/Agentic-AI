@@ -1,0 +1,32 @@
+Name: John Smith
+Email: john.smith@email.com
+Phone: +1 555-123-4567
+
+Professional Summary:
+Recent Computer Science graduate with knowledge of Python, SQL, and web development.
+
+Skills:
+- Python
+- SQL
+- HTML
+- Git
+
+Education:
+B.Sc. Computer Science
+ABC University
+2025
+
+Experience:
+Intern, Tech Solutions Inc. (2025)
+- Assisted in developing Python applications.
+- Created SQL queries for data analysis.
+
+Projects:
+Task Manager App
+- Built a task tracking application using Python.
+
+Certifications:
+- Python Fundamentals
+
+Languages:
+- English

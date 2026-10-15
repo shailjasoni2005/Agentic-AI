@@ -66,7 +66,7 @@ except json.JSONDecodeError as error:
 except ValidationError as error:
     print("The JSON did not match our model:", error)
 
-except Exception as error:
+except Exception as error:  # noqa: BLE001
     print("LLM API or other error:", error)
 
 
